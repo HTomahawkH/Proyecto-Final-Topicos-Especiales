@@ -12,4 +12,4 @@ Panel	#1:	Carga	varios	campos	y	calcula	el	comportamiento	de	un	 sistema	dinámi
 Panel	#2:	Visualiza	el	diagrama	de	estado	fase.  
 Panel	#3:	Comportamiento	de	las	poblaciones.  
 
-El proyecto consta de un folder donde se contiene el código de los diferentes archivos, se accede a la ventana inicial a través del archivo "presentación.py". Además, cuenta con una documentación, un archivo README y distintas wikis.
+El proyecto consta de un folder dónde se contiene el código de los diferentes archivos, se accede a la ventana inicial a través del archivo "presentación.py". Además, cuenta con una documentación, un archivo README y distintas wikis.
