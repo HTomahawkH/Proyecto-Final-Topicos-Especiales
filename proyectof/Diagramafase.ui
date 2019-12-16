@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>493</width>
+    <height>477</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Diagrama de Fase</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>20</y>
+     <width>301</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>Espacio fásico o Diagrama de fases</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_18">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>70</y>
+     <width>461</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>
+En mecánica clásica, el espacio fásico, espacio de fases o diagrama de fases es una 
+construcción matemática que permite representar el conjunto de posiciones y momentos 
+conjugados de un sistema de partículas. Más técnicamente, el espacio de fases es una variedad 
+diferenciable de dimensión par, tal que las coordenadas de cada punto representan tanto 
+las posiciones generalizadas como sus momentos conjugados correspondientes. Es decir, cada 
+punto del espacio fásico representa un estado del sistema físico. Ese estado físico vendrá 
+caracterizado por la posición de cada una de las partículas y sus respectivos momentos.
+
+</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>180</y>
+     <width>461</width>
+     <height>271</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>Focal_stability.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
